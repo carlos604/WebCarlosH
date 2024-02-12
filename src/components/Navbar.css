@@ -1,0 +1,15 @@
+/* Navbar.css */
+
+.navbar-title {
+    flex-grow: 1;
+  }
+  
+  .menu-icon {
+    display: none; /* Oculta el ícono del menú en pantallas grandes */
+  }
+  
+  @media (max-width: 600px) {
+    .menu-icon {
+      display: block; /* Muestra el ícono del menú en pantallas pequeñas */
+    }
+  }
