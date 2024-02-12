@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WebCarlosH/static/css/main.bd882c87.css",
+    "main.js": "/WebCarlosH/static/js/main.4070387e.js",
+    "static/media/fondo2.jpg": "/WebCarlosH/static/media/fondo2.759aef8de644a1ce2422.jpg",
+    "index.html": "/WebCarlosH/index.html",
+    "main.bd882c87.css.map": "/WebCarlosH/static/css/main.bd882c87.css.map",
+    "main.4070387e.js.map": "/WebCarlosH/static/js/main.4070387e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd882c87.css",
+    "static/js/main.4070387e.js"
+  ]
+}
